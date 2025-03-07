@@ -1,6 +1,6 @@
 # Personal Meet - Premium Video Conference App
   
-A high-quality video conferencing application similar to Google Meet, built with React, TypeScript, and WebRTC. 
+A high-quality video conferencing application similar to Google Meet, built with React, TypeScript, and WebRTC.    
 
 ![Personal Meet Home Screen](https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 
